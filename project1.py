@@ -14,5 +14,6 @@ elif operator == "/":
     print(num_1/num_2)
 else :
     print("Invalid operator")
+    print("commited")
 
 
